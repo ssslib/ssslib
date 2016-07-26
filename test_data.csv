@@ -1,0 +1,9 @@
+id,channel,audio,source,isAutoFadeOut,fadeInSeconds,fadeOutSeconds,fileName,findPath,bypassEffects,bypassListenerEffects,bypassReverbZones,dopplerLevel,loop,maxDistance,minDistance,panStereo,pitch,priority,reverbZoneMix,spatialBlend,spatialize
+1,0,BGM,BGMPlayer1,TRUE,6,3,BGM001,,,,,,FALSE,,,,,,,,
+2,0,BGM,BGMPlayer2,TRUE,6,3,BGM002,,,,,,FALSE,,,,,,,,
+3,1,VOICE,voicePlayer1,FALSE,0,0,VOICE001,,,,,,FALSE,,,,,,,,
+4,1,VOICE,voicePlayer2,FALSE,0,0,VOICE002,,,,,,FALSE,,,,,,,,
+5,2,SE,sePlayer1,FALSE,0,0,SE001,,,,,,FALSE,,,,,,,,
+6,2,SE,sePlayer2,FALSE,0,0,SE002,,,,,,FALSE,,,,,,,,
+7,2,SE,sePlayer3,FALSE,0,0,SE003,,,,,,FALSE,,,,,,,,
+8,3,SE,loopPlayer,FALSE,0,0,SE001,,,,,,TRUE,,,,,,,,

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b33b0e06d8b22544f8915943f3f896e9
+timeCreated: 1454402136
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Mixer: {fileID: 24100000, guid: 7f022677890cd36499bf2a2b058c06fa, type: 2}
+  - MixerBgmGroup: {fileID: 24395650, guid: 7f022677890cd36499bf2a2b058c06fa, type: 2}
+  - MixerSeGroup: {fileID: 24376536, guid: 7f022677890cd36499bf2a2b058c06fa, type: 2}
+  - MixerVoiceGroup: {fileID: 24306130, guid: 7f022677890cd36499bf2a2b058c06fa, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
